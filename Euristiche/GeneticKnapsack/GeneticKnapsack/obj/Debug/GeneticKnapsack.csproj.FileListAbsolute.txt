@@ -1,0 +1,26 @@
+c:\users\utente\documents\visual studio 2013\Projects\GeneticKnapsack\GeneticKnapsack\bin\Debug\GeneticKnapsack.exe.config
+c:\users\utente\documents\visual studio 2013\Projects\GeneticKnapsack\GeneticKnapsack\bin\Debug\GeneticKnapsack.exe
+c:\users\utente\documents\visual studio 2013\Projects\GeneticKnapsack\GeneticKnapsack\bin\Debug\GeneticKnapsack.pdb
+c:\users\utente\documents\visual studio 2013\Projects\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.csprojResolveAssemblyReference.cache
+c:\users\utente\documents\visual studio 2013\Projects\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.Properties.Resources.resources
+c:\users\utente\documents\visual studio 2013\Projects\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.csproj.GenerateResource.Cache
+c:\users\utente\documents\visual studio 2013\Projects\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.exe
+c:\users\utente\documents\visual studio 2013\Projects\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.pdb
+c:\users\utente\documents\visual studio 2013\Projects\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.FormGenetic.resources
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\bin\Debug\GeneticKnapsack.exe.config
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.exe
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.pdb
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\bin\Debug\GeneticKnapsack.exe
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\bin\Debug\GeneticKnapsack.pdb
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.csprojResolveAssemblyReference.cache
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.FormGenetic.resources
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.Properties.Resources.resources
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.csproj.GenerateResource.Cache
+C:\Users\Lorenzo\Desktop\Bandini_Lorenzo\Euristiche\GeneticKnapsack\GeneticKnapsack\bin\Debug\GeneticKnapsack.exe.config
+C:\Users\Lorenzo\Desktop\Bandini_Lorenzo\Euristiche\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.exe
+C:\Users\Lorenzo\Desktop\Bandini_Lorenzo\Euristiche\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.pdb
+C:\Users\Lorenzo\Desktop\Bandini_Lorenzo\Euristiche\GeneticKnapsack\GeneticKnapsack\bin\Debug\GeneticKnapsack.exe
+C:\Users\Lorenzo\Desktop\Bandini_Lorenzo\Euristiche\GeneticKnapsack\GeneticKnapsack\bin\Debug\GeneticKnapsack.pdb
+C:\Users\Lorenzo\Desktop\Bandini_Lorenzo\Euristiche\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.FormGenetic.resources
+C:\Users\Lorenzo\Desktop\Bandini_Lorenzo\Euristiche\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.Properties.Resources.resources
+C:\Users\Lorenzo\Desktop\Bandini_Lorenzo\Euristiche\GeneticKnapsack\GeneticKnapsack\obj\Debug\GeneticKnapsack.csproj.GenerateResource.Cache

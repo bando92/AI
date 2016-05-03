@@ -1,0 +1,8 @@
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\bin\Release\GeneticKnapsack.exe.config
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\bin\Release\GeneticKnapsack.exe
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\bin\Release\GeneticKnapsack.pdb
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\obj\Release\GeneticKnapsack.FormGenetic.resources
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\obj\Release\GeneticKnapsack.Properties.Resources.resources
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\obj\Release\GeneticKnapsack.csproj.GenerateResource.Cache
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\obj\Release\GeneticKnapsack.exe
+C:\Users\Lorenzo\Desktop\GeneticKnapsack\GeneticKnapsack\obj\Release\GeneticKnapsack.pdb
